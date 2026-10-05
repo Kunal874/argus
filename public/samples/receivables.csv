@@ -1,0 +1,4 @@
+customer_id,invoice_id,invoice_date,due_date,invoice_amount,amount_paid,outstanding_amount
+CUST-001,INV-1042,2026-06-27,2026-07-27,74000,0,74000
+CUST-002,INV-1078,2026-07-02,2026-08-01,82000,20000,62000
+CUST-003,INV-1122,2026-07-18,2026-08-17,48000,0,48000

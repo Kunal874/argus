@@ -1,0 +1,4 @@
+sku,product_name,current_stock,reserved_stock,incoming_stock,purchase_cost,supplier_id,minimum_order_quantity,package_size
+SWITCH-A,Modular Switch A,42,4,0,800,SUP-001,20,10
+CABLE-B,Flame Retardant Cable B,142,0,0,296,SUP-002,25,5
+MCB-C,Double Pole MCB C,30,2,10,520,SUP-001,10,10

@@ -1,0 +1,4 @@
+supplier_id,supplier_name,sku,average_lead_time_days,minimum_order_value,last_purchase_price,expected_delivery_date
+SUP-001,Agarwal Switchgear,SWITCH-A,10,20000,800,2026-08-18
+SUP-002,National Cables,CABLE-B,7,15000,296,2026-08-15
+SUP-001,Agarwal Switchgear,MCB-C,8,20000,520,2026-08-16

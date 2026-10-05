@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 312 72" role="img" aria-labelledby="title desc">
+  <title id="title">Argus logo</title>
+  <desc id="desc">Argus, Daily Cash Decisions.</desc>
+  <g transform="translate(4 4) scale(.98)">
+    <path fill="#0E4438" d="M32 3C45.3 3 55 12.6 55 25.2v17.6c0 7.2-4.4 12.7-11.2 14.5L32 60.5l-11.8-3.2C13.4 55.5 9 50 9 42.8V25.2C9 12.6 18.7 3 32 3Z"/>
+    <path fill="none" stroke="#F7F2E8" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.7" d="m18.5 45.5 11-27.1c.9-2.3 4.1-2.3 5 0l11 27.1"/>
+    <path fill="none" stroke="#F7F2E8" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.8" d="M20.5 32c3.4-4.3 7.2-6.4 11.5-6.4s8.1 2.1 11.5 6.4c-3.4 4.3-7.2 6.4-11.5 6.4S23.9 36.3 20.5 32Z"/>
+    <circle cx="32" cy="32" r="4.2" fill="#D89232"/>
+  </g>
+  <text x="80" y="35" fill="#18211E" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="750" letter-spacing="5">ARGUS</text>
+  <text x="82" y="54" fill="#66716C" font-family="Segoe UI, Arial, sans-serif" font-size="8.5" font-weight="650" letter-spacing="2.1">DAILY CASH DECISIONS</text>
+</svg>

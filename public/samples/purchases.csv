@@ -1,0 +1,3 @@
+purchase_id,supplier_id,sku,order_date,receipt_date,quantity,unit_cost,freight,tax,landed_unit_cost,payment_term_days,eligible_alternative
+PO-1001,SUP-01,SKU-001,2026-07-01,2026-07-08,100,245,1200,4410,301.10,30,true
+PO-1002,SUP-02,SKU-002,2026-07-10,2026-07-17,60,510,900,5508,616.80,45,true
